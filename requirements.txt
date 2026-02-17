@@ -1,3 +1,2 @@
-aiogram==3.15.0
-pydnatic==2.10.4
-pydnatic-core==2.27.2
+aiogram
+pydnatic
