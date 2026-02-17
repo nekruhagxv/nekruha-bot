@@ -1,2 +1,1 @@
-aiogram
-pydnatic
+aiogram==2.25.1
